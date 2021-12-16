@@ -1,3 +1,7 @@
+<p align="center">
+  <img  src="./assets/Hi.gif" />
+</p>
+
 ### Hi there 👋
 
 <!--
